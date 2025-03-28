@@ -21,9 +21,9 @@ Para garantizar una experiencia fluida, Rener's Golden Minecraft requiere un mí
 
 Dependiendo del lanzador que use, siga estas guías para asignar la RAM correctamente:
 
-[ATLauncher](https://youtu.be/UYYwjqBcQMQ?si=KGmMrAs3A_nM3SRS)
+[ATLauncher](https://youtu.be/UYYwjqBcQMQ?t=31)
 
-[Aplicación CurseForge](https://youtu.be/GFFRJ9RcrG8?si=kQff7QNh8oOwAA-V)
+[Aplicación CurseForge](https://youtu.be/GFFRJ9RcrG8?t=31)
 
 <h2 align="center">Optimización de argumentos de Java</h2>
 
