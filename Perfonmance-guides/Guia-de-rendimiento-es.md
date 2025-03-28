@@ -1,4 +1,9 @@
-<h1 align="center">Rener's Golden Minecraft - ⚡ Guía de Rendimiento ⚡</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfac0ec2-0f9f-498a-a842-3760fc16422d" alt="">
+</p>
+
+
+<h1 align="center">Rener's Golden Minecraft - ⚡ Guía de Rendimiento ⚡</h1>  
 
 <h2 align="center">Esta guía intentará ofrecer varias opciones para mejorar el rendimiento. Si bien el ModPack ya está bien optimizado, estas opciones me han dado muy buenos resultados y, en general, no son tan complicadas de ejecutar como otros métodos.</h2>
 
