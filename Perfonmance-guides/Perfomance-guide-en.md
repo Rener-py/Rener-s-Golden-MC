@@ -1,5 +1,7 @@
 <h1 align="center">Rener's Golden Minecraft - ⚡ Perfomance Guide ⚡</h1>
 
+[for spanish version click here](https://github.com/Rener-py/Rener-s-Golden-MC/blob/main/Perfonmance-guides/Guia-de-rendimiento-es.md)![es](https://github.com/user-attachments/assets/8cceb02d-33b2-4cf6-bcfb-f52819be3e2e)
+
 <h2 align="center">This guide will try to provide various options to improve perfomance even though the ModPack is already well optimized, this options have given me very good results and that are generally not as complicated to perform as other methods.</h2>
 
 ## Allocate More RAM
