@@ -19,9 +19,9 @@ To ensure a smooth experience, Rener's Golden Minecraft requires a minimum of 7G
 
 Depending on the launcher you use, follow these guides to properly allocate RAM:
 
-[ATLauncher](https://youtu.be/UYYwjqBcQMQ?si=KGmMrAs3A_nM3SRS)
+[ATLauncher](https://youtu.be/UYYwjqBcQMQ?t=31)
 
-[CurseForge App](https://youtu.be/GFFRJ9RcrG8?si=kQff7QNh8oOwAA-V)
+[CurseForge App](https://youtu.be/GFFRJ9RcrG8?t=31)
 
 <h2 align="center">Java Arguments Optimization</h2>
 
