@@ -1,21 +1,21 @@
-# Rener's Golden Minecraft v4.6 - Update Notes
+ Rener's Golden Minecraft v4.6 - Update Notes
 
-## Modpack Overhaul
+ Modpack Overhaul
 
-- **Complete Restart**: The modpack has been rebuilt from the ground up for a better overall experience.
-  - **Removed Redundant Mods**: Unnecessary or duplicate mods were eliminated, improving performance.
-  - **Added New Mods**: Fresh mods were introduced to enhance gameplay and add new features.
-  - **Optimization**: Extensive optimization ensures smooth performance across various hardware setups.
+- Complete Restart: The modpack has been rebuilt from the ground up for a better overall experience.
+  - Removed Redundant Mods**: Unnecessary or duplicate mods were eliminated, improving performance.
+  - Added New Mods: Fresh mods were introduced to enhance gameplay and add new features.
+  - Optimization: Extensive optimization ensures smooth performance across various hardware setups.
 
-## Configuration & Support Enhancements
+ Configuration & Support Enhancements
 
-- **Reworked Configurations**: Settings were reviewed and improved for stability and speed.
-- **Preconfigured Texture Packs**: Added for a more immersive experience.
-- **Modpack Update Checker**: A new system notifies players of updates while in-game.
-- **Crash Assistance System**: Diagnoses crashes and provides troubleshooting help.
-- **Discord Support Integration**: Direct support available via the modpack's new Discord server.
-- **Optimization Guide**: Comprehensive documentation on improving performance.
+- Reworked Configurations: Settings were reviewed and improved for stability and speed.
+- Preconfigured Texture Packs: Added for a more immersive experience.
+- Modpack Update Checker: A new system notifies players of updates while in-game.
+- Crash Assistance System: Diagnoses crashes and provides troubleshooting help.
+- Discord Support Integration: Direct support available via the modpack's new Discord server.
+- Optimization Guide: Comprehensive documentation on improving performance.
 
-## Content Explorer Redesign
+ Content Explorer Redesign
 
-- **Improved Navigation**: The modpack's content explorer was completely redesigned for better usability.
+- Improved Navigation: The modpack's content explorer was completely redesigned for better usability.
