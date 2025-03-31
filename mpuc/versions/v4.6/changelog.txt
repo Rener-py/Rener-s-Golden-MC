@@ -1,23 +1,21 @@
 # Rener's Golden Minecraft v4.6 - Update Notes
 
-## Modpack Full Start Over:
+## Modpack Overhaul
 
-- **Full Redirection**:
+- **Complete Restart**: The modpack has been rebuilt from the ground up for a better overall experience.
+  - **Removed Redundant Mods**: Unnecessary or duplicate mods were eliminated, improving performance.
+  - **Added New Mods**: Fresh mods were introduced to enhance gameplay and add new features.
+  - **Optimization**: Extensive optimization ensures smooth performance across various hardware setups.
 
-We completely did a fresh start of the modpack to be a better overall experience.
-  - **Remove Redundant Mods**: Unnecessary or duplicate mods were removed and improved performance.
-  - **Added New Mods**: New mods were added to be a better overall gameplay experience and bring new features into gameplay.
-  - **Optimization**: We have done extensive optimization work to ensure smooth performance on a range of hardware setups.
-  
- ## Configuration and Support Improvements:
-  
-   - **Re-worked Configuration**: All configurations went through a review and improvements to provide a more stable and faster experience to gameplay.
-   - **Texture Packs**: Pre-configured texture packs have been added for a better overall experience.
-   - **Mod Pack Update Check System**: New system to check for modpack updates while in the game.
-   - **Crash Assistance System**: If the game crashes, the crash assistance system will diagnose and will help troubleshoot. 
-   - **Discord Support System Integration**: We have added a support system to obtain direct support via the new modpack discord server.
-   - **Integrated Optimization Support**: A full documentation to optimize your modpack and improve performance will be available.
-  
-  ## Content Explorer Full Redesign:
-  
-  - **Content Explorer Redesign**: The modpack's content explorer was redesigned for better and easier navigation. 
+## Configuration & Support Enhancements
+
+- **Reworked Configurations**: Settings were reviewed and improved for stability and speed.
+- **Preconfigured Texture Packs**: Added for a more immersive experience.
+- **Modpack Update Checker**: A new system notifies players of updates while in-game.
+- **Crash Assistance System**: Diagnoses crashes and provides troubleshooting help.
+- **Discord Support Integration**: Direct support available via the modpack's new Discord server.
+- **Optimization Guide**: Comprehensive documentation on improving performance.
+
+## Content Explorer Redesign
+
+- **Improved Navigation**: The modpack's content explorer was completely redesigned for better usability.
