@@ -1,10 +1,8 @@
 ![reners_golden](https://github.com/user-attachments/assets/4f1fbdc9-2d72-4c5c-aac7-77dedc1ef684)
 
-<h1 style="text-align: center;">Rener's Golden Minecraft</h1>
+<h1 align="center">Rener's Golden Minecraft</h1>
 
 A bright and interactive modpack that makes Minecraft a rich, colorful universe of discovery, automation, and stunning visuals. Fight legendary monsters, explore diverse biomes, overcome dungeons, and construct to your own timeline with a non-linear progression that will direct but not limit. Your journey, your way, starts in Rener's Golden.
-
-
 
 Start a new journey with this modpack and experience Minecraft in ways you never have. Explore brand-new locations, loot spooky buildings, and search for hidden areas. Build everything from magic botanic or basic machines to nuclear reactors. Combat many different boss monsters, learn combat skills, and wield multiple weapons.
 
@@ -16,27 +14,32 @@ This modpack allows you to build, explore, and conquer an endless world. Everyth
 
 
 # Uncover a Universe of Endless Exploration.
+![R_LARGUE_PIXEL](https://github.com/user-attachments/assets/4c0eb68c-306d-43a2-974c-d35f46ee51d2)
 Drown yourself in a Minecraft world like no other. This mod pack takes vanilla and expands it with a wealth of additional creatures, biomes, structures, and mechanics that will keep you exploring and finding new things for hours.
 
 ## Exciting Features:
 
-# Optimization
+# Optimization! 
+![boltttt](https://github.com/user-attachments/assets/c29c7c9e-0660-480c-983e-52e040ed1947)
+
 This modpack includes over 65 carefully chosen and configured optimization mods, ensuring a smooth and seamless gaming experience. Every mod has been selected with precision to provide exceptional performance and gameplay, allowing you to enjoy everything Minecraft has to offer without compromising speed or stability.
 
 ### New Worlds and Dimensions:
 
-Descend into the abyss of Alex's Caves and abridge the unknown of the Deeper Darker.
-Take bold strides in the extraterrestrial realms of Ad Astra and the mythological experiences of Blue Skies.
-If Den mothers scare your fearlessness, perhaps the terrifying Biogone Nether, or Jaden's Nether Expansion, or Incendium will push your ability to the challenge.
-Not even places that contain evil structures are safe. Find out about the new structures implemented into your worlds' structure (Adorabuild Structures, Structory, Towns and Towers, Yung's "Better" series...) to temples, dungeons, and fortresses.
+Descend into the abyss of [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves) and abridge the unknown of the [Deeper Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker).
+Take bold strides in the extraterrestrial realms of [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra) and the mythological experiences of [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies).
+If Den mothers scare your fearlessness, perhaps the terrifying [Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether), or [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion), or [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium) will push your ability to the challenge.
+Not even places that contain evil structures are safe. Find out about the new structures implemented into your worlds' structure ([Adorabuild Structures](https://www.curseforge.com/minecraft/mc-mods/adorabuild-structures), [Structory](https://www.curseforge.com/minecraft/mc-mods/structory), [Towns and Towers](https://www.curseforge.com/minecraft/mc-mods/towns-and-towers), [Yung's "Better" series and repurposed](https://www.curseforge.com/members/yungnickyoung/projects)...) to temples, dungeons, and fortresses, and much more! Everything configured with spacing and datapacks to let them work together!
 
 ### Epic Creatures and Monsters:
 
-Glimpse unique creatures through the contributions of Alex's Mobs and Critters and Companions.
-The myths become a reality with legendary canines of Legendary Creatures and Mowzie's Mobs, and fear of The L_Enders_Cataclysm of horrific creatures.Bring your favorite dragon to life!? See Dragon Mounts.
-Check out some new remixed skeletons and new nether creatures from the Nether Skeletons and RealmRPG Seadwellers.
+Glimpse unique creatures through the contributions of [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) and [Critters and Companions](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions).
+The myths become a reality with legendary canines of [Legendary Creatures](https://www.curseforge.com/minecraft/mc-mods/legendary-creatures) and [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs), and fear of The [L_Enders_Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm) of horrific creatures.
+Bring your favorite dragon to life!? See [Dragon Mounts](https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy).
+Check out some new remixed skeletons and new nether creatures from the Nether Skeletons and RealmRPG Seadwellers. And much more!
 
 ## Feature "Content Explorer"
+![content_explorer1](https://github.com/user-attachments/assets/296a059b-a91b-4672-ae4c-c7f86bb8102d)
 
 **Explore Content:** Your Key to Unlimited ExperiencesAre you bored and constrained by a linear path? The 'Content Explorer' is your entry into a world of endless experiences.
 This new in-game interface (FTBQ) moves away from the conventional modpack structure and provides a flexible, personalized exploration experience.
