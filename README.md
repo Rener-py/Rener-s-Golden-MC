@@ -1,4 +1,7 @@
-# Rener's Golden Minecraft
+![reners_golden](https://github.com/user-attachments/assets/4f1fbdc9-2d72-4c5c-aac7-77dedc1ef684)
+
+<h1 style="text-align: center;">Rener's Golden Minecraft</h1>
+
 A bright and interactive modpack that makes Minecraft a rich, colorful universe of discovery, automation, and stunning visuals. Fight legendary monsters, explore diverse biomes, overcome dungeons, and construct to your own timeline with a non-linear progression that will direct but not limit. Your journey, your way, starts in Rener's Golden.
 
 
