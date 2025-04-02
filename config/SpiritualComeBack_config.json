@@ -1,0 +1,15 @@
+{
+  "Panicked_Spirit Duration_(seconds)": 120,
+  "Panicked_Spirit_Speed": true,
+  "Panicked_Spirit_Speed_level": 2,
+  "Panicked_Spirit_Slow_falling": true,
+  "Panicked_Spirit_Slow_falling_level": 1,
+  "Panicked_Spirit_Fire_resistance": true,
+  "Panicked_Spirit_Fire_resistance_level": 1,
+  "Spooky_Advantage_Duration_(seconds)": 25,
+  "Spooky_Advantage_chance_(%)": 75,
+  "Mysterious_force_chance_(%)": 0,
+  "Spiritual_Defense_Effect": true,
+  "Water_Breath": true,
+  "Water_Breath_level": 1
+}

@@ -1,0 +1,11 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+turnOffPotionParticles = "NONE"
+reduceAllChance = 0.6445849
+reduceDecreasedChance = 0.6380438
+disableParticles = false
+
+[byTypeReductions]
+"scb:plantparticle" = 0.0
+"scb:spiritarmor_particle" = 0.0
+"scb:weirdpar" = 0.0
