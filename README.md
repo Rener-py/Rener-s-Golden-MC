@@ -24,6 +24,15 @@ Drown yourself in a Minecraft world like no other. This mod pack takes vanilla a
 
 This modpack includes over 65 carefully chosen and configured optimization mods, ensuring a smooth and seamless gaming experience. Every mod has been selected with precision to provide exceptional performance and gameplay, allowing you to enjoy everything Minecraft has to offer without compromising speed or stability.
 
+
+
+
+### A Core of Magic and Technology: [Create](https://www.curseforge.com/minecraft/mc-mods/create), [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage), and [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+![trifuerza-tecno-botanica](https://github.com/user-attachments/assets/6efece6d-6294-4bc9-ae8c-09f44facc303)
+## Technobotany!
+
+This modpack intricately blends the mechanical engineering of [Create](https://www.curseforge.com/minecraft/mc-mods/create), the efficient organization of [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage), and the natural magic of [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) to craft a unique and powerful gameplay experience.
+
 ### New Worlds and Dimensions:
 
 Descend into the abyss of [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves) and abridge the unknown of the [Deeper Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker).
