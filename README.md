@@ -32,3 +32,20 @@ Not even places that contain evil structures are safe. Find out about the new st
 Glimpse unique creatures through the contributions of Alex's Mobs and Critters and Companions.
 The myths become a reality with legendary canines of Legendary Creatures and Mowzie's Mobs, and fear of The L_Enders_Cataclysm of horrific creatures.Bring your favorite dragon to life!? See Dragon Mounts.
 Check out some new remixed skeletons and new nether creatures from the Nether Skeletons and RealmRPG Seadwellers.
+
+## Feature "Content Explorer"
+
+**Explore Content:** Your Key to Unlimited ExperiencesAre you bored and constrained by a linear path? The 'Content Explorer' is your entry into a world of endless experiences.
+This new in-game interface (FTBQ) moves away from the conventional modpack structure and provides a flexible, personalized exploration experience.
+
+**Some highlights:** **Suggested, Not Required :)** The 'Content Explorer' is a collection of mod-based content suggestions that might be appealing and relevant to what you are doing and where you are in the game.
+Unlike a conventional quest-based modpack, you are not obligated to do anything, you are given options to explore and find your own way.
+
+**Hidden Locations:** Discover new dimensions, unique creatures, and old buildings you would have not found if not prompted.
+The 'Content Explorer' plays as a personal guide to show you the best and most enjoyable content the modpack has to offer.
+
+**Free Exploration:** No linear quest lines to follow; enjoy real sandbox exploration. You are free to go at your own pace, create your own objectives, and create your own experience.
+
+**Dynamic:** The 'Content Explorer' changes with you as you proceed through the game, it is constantly updated based on the things you have shared in the public realms, but also it learns as you unlock new areas, areas, and adventure through the game. Don't forget, it is by its nature, dynamic. 
+
+(This is a feature that is still in development, so expect changes and improvements)
