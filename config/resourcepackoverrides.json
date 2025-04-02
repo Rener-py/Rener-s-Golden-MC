@@ -2,120 +2,129 @@
   "schema_version": 1,
   "failed_reloads_per_session": 5,
   "default_packs": [
-    "file/alex_titles.zip",
-    "file/alternative_rain_sounds.zip",
-    "file/astraliytes_animated_textures.zip",
-    "file/Better_End_Portal_Frame.zip",
-    "file/CreateSophisticatedBackpacks.zip",
-    "file/create_immersive_aircraft.zip",
-    "file/create_style_for_refinade.zip",
-    "file/cubic_sun_moon.zip",
-    "file/Darkmode_colorful_gui.zip",
-    "file/enchant_icons.zip",
-    "file/ender_eyes.zip",
-    "file/fancy_crops.zip",
-    "file/farcrs_recrafted.zip",
-    "file/genshin_music.zip",
-    "file/mandala_gui_plaques.zip",
-    "file/Modded_containers_dark.zip",
-    "file/more_cave_sounds.zip",
-    "file/Slightly-Improved-Font-1.1.5.zip",
-    "file/Soft-Weather-1.0-1.20.zip",
-    "file/updated_aquaculture-1.0.zip",
-    "file/vanilla_experience_plus.zip",
-    "file/visual_titles_1.1.zip",
-    "file/vocal_villagers.zip"
+	"mod_resources",
+	"file/Slightly-Improved-Font-1.1.5.zip",
+	"file/\u00A7b\u00A7lVanilla Experience+\u00A70.zip",
+	"file/updated_aquaculture-1.0.zip",
+	"eatinganimations_compat",
+	"file/Better_End_Portal_Frame_(1.20).zip",
+	"file/EnderEyes_1.20.1_v3.zip",
+	"file/Fancy Crops v1.1.zip",
+	"file/Farcr's Re-Crafted V2.16.1.zip",
+	"file/Mandala's GUI - Dark mode Advancement Plaques Compat 1.0.zip",
+	"file/CreateSophisticatedBackpacks.zip",
+	"file/enchant icons 1.20 v1.3.zip",
+	"file/cubic_sun_moon.zip",
+	"file/Soft-Weather-1.0-1.20.zip",
+	"file/Create Style for Refined Storage.zip",
+	"file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+	"file/Visual Titles 1.1.zip",
+	"file/Alex's Titles 2.0.zip",
+	"file/\u00A78\u00A7lDarkmode \u00A7f\u00A7lColourful Containers\u00A78.zip",
+	"file/\u00A75\u00A7lModded \u00A7f\u00A7lContainers \u00A78\u00A7lDark\u00A78.zip",
+	"file/reners_modpack_dependency.zip",
+	"file/astraliytes_animated_textures.zip",
+	"file/More Cave Sounds.zip",
+	"file/vocal_villagers.zip",
+	"file/Alternative Rain Sounds 1.20-1.20.X.zip",
+	"file/Genshin (Liyue) v1.zip"
   ],
   "default_overrides": {
     "force_compatible": true
   },
   "pack_overrides": {
-    "file/Repurposed_Structures-Better_Desert_Temples_v8.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Better_Dungeons_v5.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Better_Jungle_Temples_v6.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Better_Monuments_v6.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Better_Nether_Fortress_v6.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Better_Strongholds_v5.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Better_Witch_Huts_v4.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Bountiful_v3.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Bygone_Nether_v2.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Chef's_Delight_v3.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Domestication_Innovation_v4.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Farmers_Delight_v6.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Friends_And_Foes_v5.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Incubation_v3.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-More_Villagers_v10.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Savage_And_Ravage_v6.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-Sawmill_v2.zip": {
-      "hidden": true
-    },
-    "file/Repurposed_Structures-VillagersPlus_v3.zip": {
-      "hidden": true
-    },
-    "blue_skies:legacy_pack": {
-      "hidden": true
-    },
-    "builtin/add_pack_finders_test": {
-      "hidden": true
-    },
-    "builtin/crittersandcompanions": {
-      "hidden": true
-    },
-    "delightful:overhauls": {
-      "hidden": true
-    },
-    "high_contrast": {
-      "hidden": true
-    },
-    "mod/subtle_effects:resourcepacks/biome_color_water_particles": {
-      "hidden": true
-    },
-    "netherexp:conflicting_retextures": {
-      "hidden": true
-    },
-    "programmer_art": {
-      "hidden": true
-    },
-    "supplementaries:darker_ropes": {
-      "hidden": true
-    },
-    "unique_nether_wood": {
-      "hidden": true
-    },
-	"file/Scarecrow_Obliterator.zip": {
-      "hidden": true
-    }
-  }
+	  "blue_skies:legacy_pack":{
+		  "hidden":true
+	  },
+	"builtin/add_pack_finders_test":{
+		"hidden":true
+	},
+	"builtin/crittersandcompanions":{
+		"hidden":true
+	},
+	"delightful:overhauls":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Better_Desert_Temples_v8.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Better_Dungeons_v5.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Better_Jungle_Temples_v6.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Better_Monuments_v6.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Better_Nether_Fortress_v6.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Better_Strongholds_v5.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Better_Witch_Huts_v4.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Bountiful_v3.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Bygone_Nether_v2.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Chef's_Delight_v3.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Domestication_Innovation_v4.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Farmers_Delight_v6.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Friends_And_Foes_v5.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Incubation_v3.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-More_Villagers_v10.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Savage_And_Ravage_v6.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-Sawmill_v2.zip":{
+		"hidden":true
+	},
+	"file/Repurposed_Structures-VillagersPlus_v3.zip":{
+		"hidden":true
+	},
+	"file/SE Vanilla Consistency 1.20.1.zip":{
+		"hidden":true
+	},
+	"file/Scarecrow_Obliterator.zip":{
+		"hidden":true
+	},
+	"high_contrast":{
+		"hidden":true
+	},
+	"mod/subtle_effects:resourcepacks/biome_color_water_particles":{
+		"hidden":true
+	},
+	"netherexp:conflicting_retextures":{
+		"hidden":true
+	},
+	"programmer_art":{
+		"hidden":true
+	},
+	"supplementaries:darker_ropes":{
+		"hidden":true
+	},
+	"unique_nether_wood":{
+		"hidden":true
+	},
+	"twilightdelight:shader_compatible_fiery":{
+		"hidden":true
+	}
+}
 }
