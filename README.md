@@ -67,6 +67,10 @@ The 'Content Explorer' plays as a personal guide to show you the best and most e
 
 (This is a feature that is still in development, so expect changes and improvements)
 
+Made with love, certified by Los mañosones team
+![small_FINAL_LOS_MAONOSONES](https://github.com/user-attachments/assets/87d478a2-77d5-48c6-b3e8-d682c10b4c4b)
+
+
 <details>
   <summary>CREDITS!</summary>
 Paint_Ninja
