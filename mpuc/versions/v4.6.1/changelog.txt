@@ -1,0 +1,83 @@
+---Rener's Golden Minecraft v4.6.1 Changelog---
+
+--Balance Changes--
+☑ Nerfed BIC mobs (base% → 45%).
+☑ Reduced Crimson Mosquito spawn rate (15 → 9).
+☑ Reduced Straddlers spawn rate (70 → 10).
+☑ Wither Skeletons no longer spawn with bows.
+☑ Rotten Flesh no longer afflicts you with Rotten Stink
+☑ Mob attack speed adjustments:
+Normal: 5 → 2
+Hard: 6 → 3
+☑ Biting mobs damage reduced (3 → 2).
+☑ Further spawn rate adjustments for BIC mobs.
+☑ Reduced spawn rates for smart vanilla mobs (Skeleton, creeper, zombie, spider)
+
+---Fixes & Improvements---
+☑ ModPack perfomance improvement in 28%!
+☑ Fixed inability to hit/mine while sneaking.
+☑ Cleaned up residual assets from FM.
+☑ Fixed missing textures in Content Explorer.
+☑ Added Saw to favorite basic items.
+☑ Adjusted loading screen tips for better visibility on small screens.
+☑ Fixed crash when shift-clicking in Backpack inventory.
+☑ Fixed sound device option displaying author's device name (minor glitch).
+☑ Fixed waystones costs
+
+
+--Mod Removals--
+- Removed Nimble
+- Removed Better Third Person
+- Removed Spiritual Come Back (New version in development)
+- Removed Smooth Swapping (Forge update caused backpack crashes)
+- Removed Wakes Reforged
+- Removed Wither Skeleton Tweaks
+
+---Mod Additions---
++ Added Shoulder Surfing Reloaded
++ Added Enchantment Transfer (Fabric/Forge)
++ Added Earth2Java
++ Added PlayerRevive (Official modpack server integration)
++ Added Not Enough Crashes
++ Added Boss Music Mod
++ Added Xaero's Minimap & World Map - Waystones Compatibility [Forge]
++ Added More Mob Variants
++ Added More Villagers
++ Added Create Jetpack
++ Added Exposure
++ Added [EMF] Entity Model Features
++ Added [ETF] Entity Texture Features - [Fabric & Forge]
+
+--- Resourcepack addition ---
++ Added Obscure Tooltips Rarity Font
++ Added icon for Xaero's Minimap/World Map
++ Added Fresh Waystone Textures
++ Added Fresh Moves
++ Added Fresh Animations
++ Added Fresh Animations Extensions
++ Added Assorted Allays x Fresh Animations
++ Added Icon Xaero's X FreshAnimations
++ Added F.M.R.P
+
+--- Updated mods---
+✔ Moonlight Lib
+✔ AmbientSounds 6
+✔ ModernFix
+✔ FLIB
+✔ Pretty Rain
+✔ CreativeCore
+✔ Crash Assistant
+✔ Jaden's Nether Expansion
+✔ Every Compat (Wood Good)
+✔ Curios API (Forge/NeoForge)
+✔ Artifacts
+✔ Serene Seasons
+✔ Puzzles Lib [Forge & Fabric]
+✔ L_Ender 's Cataclysm
+✔ Geophilic – Vanilla Biome Overhauls
+✔ Born In Configuration
+✔ Particular ✨ Reforged
+✔ Sophisticated Backpacks
+✔ Sophisticated Core
+✔ FTB XMod Compat
+✔ Create: Enchantment Industry
