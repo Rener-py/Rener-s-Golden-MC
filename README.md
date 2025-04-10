@@ -1,6 +1,7 @@
 ![reners_golden](https://github.com/user-attachments/assets/4f1fbdc9-2d72-4c5c-aac7-77dedc1ef684)
 
 <h1 align="center">Rener's Golden Minecraft</h1>
+[Link to it's CurseForge page](https://www.curseforge.com/minecraft/modpacks/rgmc)
 <h1 align="center">Mandatory to play in FULL screen</h1>
 <h3 align="center">RECOMMENDED ALLOCATED RAM:
 Minimum 6GB (you can play with 5GB with a small amount of tweaking) and recommended 8GB for a normal experience.</h3>
