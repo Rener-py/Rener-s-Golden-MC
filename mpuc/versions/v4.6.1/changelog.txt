@@ -14,6 +14,8 @@ Hard: 6 → 3
 ☑ Reduced spawn rates for smart vanilla mobs (Skeleton, creeper, zombie, spider)
 
 ---Fixes & Improvements---
+☑ Added Controls infp in the Content Explorer
+☑ Added new entrances for the new additions in the Content Explorer
 ☑ ModPack perfomance improvement in 28%!
 ☑ Fixed inability to hit/mine while sneaking.
 ☑ Cleaned up residual assets from FM.
