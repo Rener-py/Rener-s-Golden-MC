@@ -1,10 +1,10 @@
 ![reners_golden](https://github.com/user-attachments/assets/4f1fbdc9-2d72-4c5c-aac7-77dedc1ef684)
 
 <h1 align="center">Rener's Golden Minecraft</h1>
-[Link to it's CurseForge page](https://www.curseforge.com/minecraft/modpacks/rgmc)
 <h1 align="center">Mandatory to play in FULL screen</h1>
 <h3 align="center">RECOMMENDED ALLOCATED RAM:
 Minimum 6GB (you can play with 5GB with a small amount of tweaking) and recommended 8GB for a normal experience.</h3>
+
 A bright and interactive modpack that makes Minecraft a rich, colorful universe of discovery, automation, and stunning visuals. Fight legendary monsters, explore diverse biomes, overcome dungeons, and construct to your own timeline with a non-linear progression that will direct but not limit. Your journey, your way, starts in Rener's Golden.
 
 Start a new journey with this modpack and experience Minecraft in ways you never have. Explore brand-new locations, loot spooky buildings, and search for hidden areas. Build everything from magic botanic or basic machines to nuclear reactors. Combat many different boss monsters, learn combat skills, and wield multiple weapons.
@@ -19,6 +19,7 @@ This modpack allows you to build, explore, and conquer an endless world. Everyth
 # Uncover a Universe of Endless Exploration.
 ![R_LARGUE_PIXEL](https://github.com/user-attachments/assets/4c0eb68c-306d-43a2-974c-d35f46ee51d2)
 Drown yourself in a Minecraft world like no other. This mod pack takes vanilla and expands it with a wealth of additional creatures, biomes, structures, and mechanics that will keep you exploring and finding new things for hours.
+# [Link to the ModPack CurseForge page](https://www.curseforge.com/minecraft/modpacks/rgmc)
 
 ## Exciting Features:
 
@@ -26,9 +27,6 @@ Drown yourself in a Minecraft world like no other. This mod pack takes vanilla a
 ![boltttt](https://github.com/user-attachments/assets/c29c7c9e-0660-480c-983e-52e040ed1947)
 
 This modpack includes over 65 carefully chosen and configured optimization mods, ensuring a smooth and seamless gaming experience. Every mod has been selected with precision to provide exceptional performance and gameplay, allowing you to enjoy everything Minecraft has to offer without compromising speed or stability.
-
-
-
 
 ### A Core of Magic and Technology: [Create](https://www.curseforge.com/minecraft/mc-mods/create), [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage), and [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 ![trifuerza-tecno-botanica](https://github.com/user-attachments/assets/6efece6d-6294-4bc9-ae8c-09f44facc303)
