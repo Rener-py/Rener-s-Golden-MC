@@ -973,7 +973,7 @@
     },
   {
     "mob": "minecraft:zombie",
-    "mincount": 9,
+    "mincount": 6,
     "result": "deny"
   },
   {
@@ -983,12 +983,12 @@
   },
   {
     "mob": "minecraft:spider",
-    "mincount": 9,
+    "mincount": 4,
     "result": "deny"
   },
   {
     "mob": "minecraft:skeleton",
-    "mincount": 9,
+    "mincount": 6,
     "result": "deny"
   },
   {
