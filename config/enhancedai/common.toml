@@ -428,9 +428,9 @@
 				#Range: 0.0 ~ 4.0
 				"Easy/Peaceful" = 0.4
 				#Range: 0.0 ~ 4.0
-				Normal = 0.5
+				Normal = 0.2
 				#Range: 0.0 ~ 4.0
-				Hard = 0.6
+				Hard = 0.3
 
 	[Mobs.Spawning]
 		#How far away from any player monsters will instantly despawn? Vanilla is 128
@@ -457,7 +457,7 @@
 	[Mobs."Biting Mobs"]
 		#The damage dealt to the attacker when bit
 		#Range: 0.0 ~ 1.7976931348623157E308
-		Damage = 3.0
+		Damage = 2.0
 
 		#Chance for a Mob to bite the attacker
 		[Mobs."Biting Mobs".Chance]
